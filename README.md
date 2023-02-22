@@ -1,8 +1,8 @@
 **Hi, I'm Nelson!** 👋
 
 I'm a passionate Software Engineer with a background in Machine Learning and Full-Stack Development.
-In my free time I enjoy working on Open Source Projects, experimenting with new tools and diving
-into domains that set my mind in motion.
+<br>In my free time I enjoy working on Open Source Projects, experimenting with new tools and diving
+<br>into domains that set my mind in motion.
 
 #### 💬 Let's Connect
 
