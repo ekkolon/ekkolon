@@ -12,3 +12,4 @@ I'm always looking to connect with fellow Software Engineers and collaborate on 
 #### 📝 Blog Posts
 
    [Inheritance in GraphQL: When and how to use it](https://blog.letterflow.io/inheritance-in-graphql-when-and-how-to-use-it-d4bef4535797)
+   [5 Stoic Quotes To Set Your Mind In Motion](https://medium.com/@nelsondv/5-stoic-quotes-to-set-your-mind-in-motion-2b1795458eff)
